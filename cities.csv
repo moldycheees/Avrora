@@ -1,4 +1,4 @@
-number,name,airport,icao,iata
+number,city,airport,icao,iata
 1,Khabarovsk,"Международный аэропорт Хабаровск",UHHH,KHV
 2,Vladivostok,"Международный аэропорт Владивосток",UHWW,VVO
 3,Sakhalin,"Международный Аэропорт Южно-Сахалинск",UHSS,UUS
