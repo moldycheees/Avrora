@@ -1,11 +1,11 @@
-Airline,Squadron,City,Type,Registration number
-Aurora,1_AS,Khabarovsk,A_319,VP-BDM 
-Aurora,1_AS,Khabarovsk,A_319,VP-BDN  
-Aurora,1_AS,Khabarovsk,A_319,VP-BUK 
+Airline,Squadron,City,Name,Registration_number,
+Aurora,1_AS,Khabarovsk,A_319,VP-BDM
+Aurora,1_AS,Khabarovsk,A_319,VP-BDN
+Aurora,1_AS,Khabarovsk,A_319,VP-BUK
 Aurora,1_AS,Khabarovsk,A_319,VP-BUN
 Aurora,1_AS,Khabarovsk,A_319,VP-BUO
 Aurora,1_AS,Vladivostok,A_319,VP-BWK
-Aurora,1_AS,Vladivostok,A_319,VP-BWA 
+Aurora,1_AS,Vladivostok,A_319,VP-BWA
 Aurora,1_AS,Sakhalin,A_319,VP-BWL
 Aurora,1_AS,Sakhalin,A_319,VP-BBD
 Aurora,2_AS,Khabarovsk,DHC_8_Q400,RA-67252 
